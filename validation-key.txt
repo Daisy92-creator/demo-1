@@ -12,7 +12,7 @@
 #
 
 # Frontend app URL and bare domain name:
-FRONTEND_URL=https://frontend.example.com
+FRONTEND_URL=https://sandbox.minepi.com
 FRONTEND_DOMAIN_NAME=frontend.example.com
 
 # Backend app URL and bare domain name:
@@ -22,10 +22,10 @@ BACKEND_DOMAIN_NAME=backend.example.com
 
 # Obtain the following 2 values on the Pi Developer Portal (open develop.pi in the Pi Browser).
 
-# Domain validation key:
-DOMAIN_VALIDATION_KEY=todo_developer_portal
-# Pi Platform API Key:
-PI_API_KEY=todo_developer_portal
+# Domain validation 
+DOMAIN_VALIDATION_KEY=8a7ecccc3f78558a8137e91336988e384ed0b9f4b326a1ac7060383cfcf671883dc3de844c9c58c589f3585fd7dc0b8fa0273b88d61f01f4e0092106d661fefd8a7ecccc3f78558a8137e91336988e384ed0b9f4b326a1ac7060383cfcf671883dc3de844c9c58c589f3585fd7dc0b8fa0273b88d61f01f4e0092106d661fefd
+# Pi Platform API Key:jdc8asnmwawect6mhdmk4ijkrh1fxxjbwfnv40ycr8zoyi4szonge5ogn595fknl
+PI_API_KEYjdc8asnmwawect6mhdmk4ijkrh1fxxjbwfnv40ycr8zoyi4szonge5ogn595fknl
 
 # Generate a random string, or roll your face on the keyboard to fill this value:
 SESSION_SECRET=abcd1324_TODO
