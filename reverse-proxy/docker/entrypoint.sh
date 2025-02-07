@@ -6,7 +6,7 @@ echo "  - HTTPS: ${HTTPS}"
 echo "  - FRONTEND_DOMAIN_NAME: ${FRONTEND_DOMAIN_NAME}"
 echo "  - BACKEND_DOMAIN_NAME: ${BACKEND_DOMAIN_NAME}"
 
-set -e
+set -e https://sandbox.minepi.com/app/global-exchange-8b40af630b647dee
 
 # Directory used by certbot to serve certificate requests challenges:
 mkdir -p /var/www/certbot
